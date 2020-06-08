@@ -1,0 +1,12 @@
+name: a6-shiny-mollyataylor
+title:
+username:
+account: mollyataylor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2423663
+bundleId: 3241025
+url: https://mollyataylor.shinyapps.io/a6-shiny-mollyataylor/
+when: 1591597899.74452
+asMultiple: FALSE
+asStatic: FALSE
